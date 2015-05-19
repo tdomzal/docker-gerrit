@@ -1,10 +1,8 @@
 # gerrit
 #
-# VERSION               0.0.2
+# VERSION               2.9.1
 
 FROM ubuntu:14.04
-
-MAINTAINER Jason W. Edgecombe <jason@rampaginggek.com>
 
 ENV GERRIT_HOME /home/gerrit
 ENV GERRIT_ROOT /home/gerrit/gerrit
