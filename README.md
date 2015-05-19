@@ -7,7 +7,7 @@ The current files will build an image that is based on the ubuntu:trusty
 image. the images includes:
 
   * supervisord
-  * Gerrit 2.9 using the H2 storage backend
+  * Gerrit using the H2 storage backend
 
 The following ports are exposed in the image:
 
